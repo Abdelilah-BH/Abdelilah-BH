@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Abdelilah-BH?tab=repositories)
 
-- 💬 Ask me about **React js, Node js, Flutter and laravel**
+- 💬 Ask me about **Next js, Node js, Flutter and laravel**
 
 - 📫 How to reach me **bouhoudev18@gmail.com**
 

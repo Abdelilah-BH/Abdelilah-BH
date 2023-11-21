@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/Abdelilah-BH?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/Abdelilah-BH?tab=repositories)
 
 - 💬 Ask me about **React js, Node js, Flutter and laravel**
 

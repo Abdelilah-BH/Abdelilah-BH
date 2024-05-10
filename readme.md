@@ -1,7 +1,7 @@
 <img src="./1614385877149.jpg" alt="cover" />
 <h1 align="center">Hi 👋, I'm Abdelilah BOUHOU</h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
-<img src="./1656539736649.jpg" width="160" alt="img" align="right"/>
+<img src="./1656539736649.jpg" width="180" alt="img" align="right"/>
 - 🔭 I’m currently working on **EuropCar**
 
 - 🌱 I’m currently learning **Nextjs**

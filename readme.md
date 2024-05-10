@@ -2,13 +2,10 @@
 <h1 align="center">Hi 👋, I'm Abdelilah BOUHOU</h1>
 <h3 align="center">A passionate fullstack developer from Morocco</h3>
 <img src="./1656539736649.jpg" width="200" alt="img" align="right"/>
-- 🔭 I’m currently working on **EuropCar**
-
-- 🌱 I’m currently learning **Nextjs**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/Abdelilah-BH?tab=repositories)
 
-- 💬 Ask me about **Next js, Node js, Flutter and laravel**
+- 💬 Ask me about **Next js, Node js, Flutter**
 
 - 📫 How to reach me **bouhoudev18@gmail.com**
 
